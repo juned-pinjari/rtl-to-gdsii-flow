@@ -1,0 +1,11 @@
+# Simulation outputs
+
+*.vcd
+**/sim
+
+# Common Verilog build outputs
+
+*.out
+*.log
+*.vvp
+*/obj_dir
