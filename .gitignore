@@ -1,11 +1,10 @@
-# Simulation outputs
-
+# Simulation & waveform outputs
 *.vcd
-**/sim
+*.fst
+**/sim/
 
-# Common Verilog build outputs
-
+# Common build & compiler outputs
 *.out
 *.log
 *.vvp
-*/obj_dir
+obj_dir/
