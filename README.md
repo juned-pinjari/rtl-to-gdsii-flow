@@ -15,7 +15,7 @@ A complete digital ASIC implementation and verification flow using open-source E
 
 - [ ] **01_rtl_and_ip/** — RTL Design & IP Integration
   - [x] 2-input AND Gate (`and_gate/`)
-  - [ ] 4:1 Multiplexer (`mux/`)
+  - [x] 4:1 Multiplexer (`mux4x1_gatelevel/`, `mux4x1_dataflow/`, `mux4x1_behavioral/`)
   - [ ] Adders & Arithmetic Units
   - [ ] Flip-Flops & Counters
   - [ ] UART Receiver IP

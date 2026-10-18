@@ -1,3 +1,6 @@
+# Internal docs
+docs/
+
 # Simulation & waveform outputs
 *.vcd
 *.fst
